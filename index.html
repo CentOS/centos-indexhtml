@@ -1,47 +1,51 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Apache HTTP Server Test Page powered by CentOS</title>
+  <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.6.0" />
+  <title>Apache HTTP Server Test Page powered by CentOS</title>
+</head>
 <body>
-<script type="text/javascript">
-	var lang = navigator.language;
-	var match = 0;
-	var locales = ["es-ES", "zh-CN", "zh-HK", "zh-TW"];
+  <script type="text/javascript">
+  //<![CDATA[
+        var lang = navigator.language;
+        var match = 0;
+        var locales = ["es-ES", "zh-CN", "zh-HK", "zh-TW"];
 
-// Try for full match of lang_LOC
-	for(locale in locales)
-	{
-		if(lang == locales[locale])
-		{
-			match = 1;
-			break;
-		}
-	}
+  // Try for full match of lang_LOC
+        for(locale in locales)
+        {
+                if(lang == locales[locale])
+                {
+                        match = 1;
+                        break;
+                }
+        }
 
-	// Else try for match of lang
-	if(match == 0)
-	{
-		for(locale in locales)
-		{
-			var loc_lang = locales[locale].substring(0,2);
-			var language = lang.substring(0,2);
+        // Else try for match of lang
+        if(match == 0)
+        {
+                for(locale in locales)
+                {
+                        var loc_lang = locales[locale].substring(0,2);
+                        var language = lang.substring(0,2);
 
-			if(loc_lang == language)
-			{
-				lang = locales[locale];
-				match = 1;
-				break;
-			}
-		}
-	}
+                        if(loc_lang == language)
+                        {
+                                lang = locales[locale];
+                                match = 1;
+                                break;
+                        }
+                }
+        }
 
-	// Else default to en-US
-	if(match == 0)
-	{
-		lang = 'en-US';
-	}
+        // Else default to en-US
+        if(match == 0)
+        {
+                lang = 'en-US';
+        }
 
-	window.location = lang + "/index.html";
-</script>
+        window.location = lang + "/index.html";
+  //]]>
+  </script>
 </body>
 </html>

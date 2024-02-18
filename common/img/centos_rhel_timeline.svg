@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="40cm" height="10cm" viewBox="-1 -68 784 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #a14f8c" x1="200" y1="60" x2="280" y2="-20"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="-960">
+    <tspan x="40" y="-960"></tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="340" y="0">
+    <tspan x="340" y="0">CentOS Stream 10</tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="-40">
+    <tspan x="440" y="-40">RHEL 10.0</tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="-40">
+    <tspan x="560" y="-40">RHEL 10.1</tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="80">
+    <tspan x="200" y="80">Fedora 40</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="120.787" y="-1017.91">
+    <tspan x="120.787" y="-1017.91"></tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="80">
+    <tspan x="320" y="80">Fedora 41</tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="80">
+    <tspan x="80" y="80">Fedora 39</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="-660">
+    <tspan x="90" y="-660"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #51a2da" x1="0" y1="100" x2="770.264" y2="100"/>
+    <polygon style="fill: #51a2da" points="777.764,100 767.764,105 770.264,100 767.764,95 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" points="777.764,100 767.764,105 770.264,100 767.764,95 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #51a2da" x1="160" y1="100" x2="200" y2="60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #51a2da" x1="280" y1="100" x2="320" y2="60"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" x1="320" y1="60" x2="410.264" y2="60"/>
+    <polygon style="fill: #51a2da" points="417.764,60 407.764,65 410.264,60 407.764,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" points="417.764,60 407.764,65 410.264,60 407.764,55 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #51a2da" x1="40" y1="100" x2="80" y2="60"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" x1="80" y1="60" x2="170.264" y2="60"/>
+    <polygon style="fill: #51a2da" points="177.764,60 167.764,65 170.264,60 167.764,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" points="177.764,60 167.764,65 170.264,60 167.764,55 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #51a2da" x1="400" y1="100" x2="440" y2="60"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" x1="440" y1="60" x2="530.264" y2="60"/>
+    <polygon style="fill: #51a2da" points="537.764,60 527.764,65 530.264,60 527.764,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" points="537.764,60 527.764,65 530.264,60 527.764,55 "/>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="80">
+    <tspan x="440" y="80">Fedora 42</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #51a2da" x1="520" y1="100" x2="560" y2="60"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" x1="560" y1="60" x2="650.264" y2="60"/>
+    <polygon style="fill: #51a2da" points="657.764,60 647.764,65 650.264,60 647.764,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" points="657.764,60 647.764,65 650.264,60 647.764,55 "/>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="80">
+    <tspan x="560" y="80">Fedora 43</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #ee0000" x1="400" y1="-20" x2="440" y2="-60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #ee0000" x1="520" y1="-20" x2="560" y2="-60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #51a2da" x1="640" y1="100" x2="680" y2="60"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" x1="680" y1="60" x2="770.264" y2="60"/>
+    <polygon style="fill: #51a2da" points="777.764,60 767.764,65 770.264,60 767.764,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" points="777.764,60 767.764,65 770.264,60 767.764,55 "/>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="80">
+    <tspan x="680" y="80">Fedora 44</tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="120">
+    <tspan x="80" y="120">Fedora Rawhide</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #a14f8c" x1="340" y1="-20" x2="280" y2="-20"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #ee0000" x1="640" y1="-20" x2="680" y2="-60"/>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="-40">
+    <tspan x="680" y="-40">RHEL 10.2</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" x1="200" y1="60" x2="290.264" y2="60"/>
+    <polygon style="fill: #51a2da" points="297.764,60 287.764,65 290.264,60 287.764,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #51a2da" points="297.764,60 287.764,65 290.264,60 287.764,55 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #ee0000" x1="280" y1="-20" x2="320" y2="-60"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #ee0000" x1="320" y1="-60" x2="410.264" y2="-60"/>
+    <polygon style="fill: #ee0000" points="417.764,-60 407.764,-55 410.264,-60 407.764,-65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ee0000" points="417.764,-60 407.764,-55 410.264,-60 407.764,-65 "/>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="-40">
+    <tspan x="320" y="-40">RHEL 10 Beta</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ee0000" x1="440" y1="-60" x2="530.264" y2="-60"/>
+    <polygon style="fill: #ee0000" points="537.764,-60 527.764,-55 530.264,-60 527.764,-65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ee0000" points="537.764,-60 527.764,-55 530.264,-60 527.764,-65 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ee0000" x1="560" y1="-60" x2="650.264" y2="-60"/>
+    <polygon style="fill: #ee0000" points="657.764,-60 647.764,-55 650.264,-60 647.764,-65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ee0000" points="657.764,-60 647.764,-55 650.264,-60 647.764,-65 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ee0000" x1="680" y1="-60" x2="770.264" y2="-60"/>
+    <polygon style="fill: #ee0000" points="777.764,-60 767.764,-55 770.264,-60 767.764,-65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ee0000" points="777.764,-60 767.764,-55 770.264,-60 767.764,-65 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a14f8c" x1="340" y1="-20" x2="770.264" y2="-20"/>
+    <polygon style="fill: #a14f8c" points="777.764,-20 767.764,-15 770.264,-20 767.764,-25 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a14f8c" points="777.764,-20 767.764,-15 770.264,-20 767.764,-25 "/>
+  </g>
+</svg>

@@ -1,51 +1,13 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.8.0" />
-  <title>Redirecting...</title>
-</head>
-<body>
-  <script type="text/javascript">
-  //<![CDATA[
-        var lang = navigator.language;
-        var match = 0;
-        var locales = ["en-US","es-ES","zh-CN","zh-HK","zh-TW","it-IT"];
-
-    // Try for full match of lang_LOC
-        for(locale in locales)
-        {
-                if(lang == locales[locale])
-                {
-                        match = 1;
-                        break;
-                }
-        }
-
-        // Else try for match of lang
-        if(match == 0)
-        {
-                for(locale in locales)
-                {
-                        var loc_lang = locales[locale].substring(0,2);
-                        var language = lang.substring(0,2);
-
-                        if(loc_lang == language)
-                        {
-                                lang = locales[locale];
-                                match = 1;
-                                break;
-                        }
-                }
-        }
-
-        // Else default to en-US
-        if(match == 0)
-        {
-                lang = 'en-US';
-        }
-
-        window.location = lang + "/index.html";
-  //]]>
-  </script>
-</body>
-</html>
+<!DOCTYPE html><html lang="en"><head><title>Redirecting...</title><meta name="robots" content="none"></head><body><script>// Configured locales may be bare "??" (e.g. "fr") or region-qualified
+// "??-??" (e.g. "es-es", converted from jekyll-l10n's canonical "es_ES").
+// Try an exact match first, whichever form each entry happens to use.
+for(var lang=(navigator.language||navigator.userLanguage||`en-us`).toLowerCase(),match=0,locales=[`es-es`,`it-it`,`zh-cn`,`zh-hk`,`zh-tw`],i=0;i<locales.length;i++)if(lang==locales[i]){match=1;break}
+// Else match on the 2-letter language prefix only, so a bare browser
+// language (e.g. "es") still matches a region-qualified locale
+// ("es-es"), and a region-qualified browser language (e.g. "es-mx")
+// still matches a bare configured locale ("es").
+if(match==0){for(var language=lang.substring(0,2),i=0;i<locales.length;i++)if(locales[i].substring(0,2)==language){lang=locales[i],match=1;break}}
+// Else redirect to the unprefixed source page — jekyll-l10n always
+// builds the English source page at "welcome.html" with no locale
+// segment, alongside any locale-prefixed variants.
+match==0?window.location=`welcome.html`:window.location=lang+`/welcome.html`;</script></body></html>
